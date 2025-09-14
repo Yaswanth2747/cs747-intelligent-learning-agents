@@ -1,0 +1,12 @@
+References:
+
+Task-1:
+- Lectures slides only
+
+Task-2:
+- Wikipedia page on Poisson distribution : https://en.wikipedia.org/wiki/Poisson_distribution
+- To explore more on gamma distribution, has nothing to do with final implementation though, ChatGPT : https://chatgpt.com/share/68c2e953-6ed4-8009-81c8-d849fc92c7be
+
+Task-3:
+- Lectures slides
+- Tried an approach in which I tried to approximate q to a closed form expression, this is also not implemented in the final code, ChatGPT : https://chatgpt.com/share/68c2e953-6ed4-8009-81c8-d849fc92c7be
